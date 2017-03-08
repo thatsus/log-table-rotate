@@ -13,7 +13,7 @@ class RotateLogTableCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'logs:rotate {table_name | The table to rename and replace}';
+    protected $signature = 'logs:rotate {table_name : The table to rename and replace}';
 
     /**
      * The console command description.

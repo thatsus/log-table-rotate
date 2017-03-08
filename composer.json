@@ -1,0 +1,20 @@
+{
+    "name": "lotvantage/log-table-rotate",
+    "description": "Rotate out tables used for logging",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "laravel/framework": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LotVantage\\Commands\\": "src/LotVantage/Commands"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    }
+}

@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LotVantage\\Commands\\RotateLogTableCommand\\": "src/LotVantage/Commands/RotateLogTableCommand"
+            "LotVantage\\": "src/LotVantage/"
         }
     },
     "autoload-dev": {

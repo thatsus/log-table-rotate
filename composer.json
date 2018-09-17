@@ -1,6 +1,14 @@
 {
     "name": "lotvantage/log-table-rotate",
     "description": "Rotate out tables used for logging",
+    "authors": [
+        {
+            "name": "Dan Kuck-Alvarez",
+            "email": "dankuck@gmail.com",
+            "homepage": "http://dankuck.github.io/",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.5.9"
     },
